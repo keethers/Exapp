@@ -1,1 +1,1 @@
-# Exapp
+// Placeholder content for README.md
